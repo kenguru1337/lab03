@@ -99,6 +99,7 @@ class SharedPtr {
     *this = SharedPtr(ptr);
   }
 
+ 
   void swap(SharedPtr& r) //подмена
   {
     std::swap(_mptr, r._mptr);
