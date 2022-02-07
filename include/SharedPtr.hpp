@@ -1,4 +1,4 @@
-// Copyright 2021 Your Name <novikovwarlock@yandex.ru>
+// Copyright 2021 Alexey <leo678337@gmail.com>
 
 #ifndef INCLUDE_SHAREDPTR_HPP_
 #define INCLUDE_SHAREDPTR_HPP_
